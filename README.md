@@ -1,55 +1,70 @@
 # 🚀 Prodigy InfoTech Data Science Internship (2026)
 
-This repository contains all the tasks completed during my Data Science Internship at Prodigy InfoTech.
-
-> Note: Different but relevant datasets were used for analysis as per availability. The focus was on applying data science techniques effectively.
+Welcome to my Data Science Internship repository at **Prodigy InfoTech**.  
+This repository contains all the tasks I have completed during my internship, focusing on data analysis, visualization, machine learning, and real-world datasets.
 
 ---
 
-## 📊 Tasks Overview
+## 👩‍💻 About Me
+Hi, I'm **Riya Pandey**  
+💡 Data Analyst | Python | SQL | Power BI | Tableau  
 
-### 🔹 Task 01: Data Visualization
-- Created bar charts and histograms
-- Visualized population distribution
+I am passionate about transforming data into meaningful insights and building data-driven solutions.
 
-### 🔹 Task 02: Data Cleaning & EDA
-- Performed data cleaning and exploratory data analysis on Titanic dataset (`train.csv`)
-- Explored relationships between variables like age, gender, class, and survival
+---
 
-### 🔹 Task 03: Decision Tree Classifier
-- Built a Decision Tree model using bank marketing dataset
-- Predicted whether a customer will subscribe to a term deposit
+## 📂 Internship Tasks
 
-### 🔹 Task 04: Sentiment Analysis
-- Analyzed social media data (`twitter_training.csv`)
-- Performed text preprocessing and sentiment classification
-
-### 🔹 Task 05: Traffic Accident Analysis
-- Analyzed accident dataset (`US_Accidents_Dec20_Updated`)
-- Identified patterns based on time, weather, and severity
-- Visualized accident hotspots
+| Task | Title | Description |
+|------|------|------------|
+| 🔹 Task-01 | Data Visualization | Population distribution using bar chart & histogram |
+| 🔹 Task-02 | EDA | Data cleaning & analysis on Titanic dataset |
+| 🔹 Task-03 | Decision Tree | Customer purchase prediction model |
+| 🔹 Task-04 | Sentiment Analysis | Social media sentiment analysis |
+| 🔹 Task-05 | Accident Analysis | Traffic accident data insights |
 
 ---
 
 ## 🛠️ Tools & Technologies
-- Python
+- Python 🐍
 - Pandas
 - NumPy
-- Matplotlib & Seaborn
+- Matplotlib
+- Seaborn
 - Scikit-learn
 
 ---
 
-## 📌 Key Learnings
+## 📊 Key Skills Gained
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
-- Machine Learning (Decision Trees)
-- Natural Language Processing (NLP)
-- Data Visualization Techniques
+- Data Visualization
+- Machine Learning Basics
+- Real-world Data Handling
 
 ---
 
-## 📬 Contact
-- Name: Riya Pandey
-- LinkedIn: https://www.linkedin.com/in/riya-pandey-072639249
-- Email: riyapandey3764@gmail.com
+## 📸 Project Highlights
+
+Each task includes:
+- ✔ Cleaned dataset
+- ✔ Jupyter Notebook
+- ✔ Visualizations
+- ✔ Insights
+
+---
+
+## 🔗 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/riya-pandey-072639249  
+- 💻 GitHub: https://github.com/riyapandey23  
+- 📧 Email: riyapandey2310@gmail.com
+
+---
+
+## ⭐ Acknowledgment
+Thanks to **Prodigy InfoTech** for providing this opportunity to gain hands-on experience in Data Science.
+
+---
+
+## 📌 Note
+This repository is created for learning and demonstration purposes as part of my internship.

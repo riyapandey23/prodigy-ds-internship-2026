@@ -1,29 +1,28 @@
-# 🌳 Task 03: Decision Tree Classifier
+# Task-03: Decision Tree Classification
 
 ## 📌 Objective
-Build a Decision Tree model to predict customer subscription behavior.
+Build a decision tree classifier to predict whether a customer will purchase a product.
 
-## 📂 Dataset
-Bank Marketing dataset (`bank.csv`)
+## 📊 Dataset
+Bank Marketing Dataset (bank.csv)
 
-## 🔍 Steps Performed
-- Data preprocessing
-- Converted categorical variables into numerical format
-- Split data into training and testing sets
-- Trained Decision Tree model
-- Evaluated model performance
-
-## 📊 Output
-- Decision Tree visualization
-- Model accuracy
-
-## 🧠 Insights
-- Duration of contact strongly influences subscription
-- Previous campaign results impact customer decisions
-- Age and job type also play a role
-
-## 🛠️ Tools Used
+## 🔧 Tools Used
 - Python
 - Pandas
 - Scikit-learn
 - Matplotlib
+
+## 📈 What I Did
+- Converted categorical variables using encoding
+- Split data into training and testing sets
+- Trained a Decision Tree Classifier
+- Evaluated model performance
+- Visualized decision tree and feature importance
+
+## 🔍 Key Insights
+- Certain features like duration and balance influence predictions
+- Decision trees provide easy interpretability of results
+
+## 📸 Visualizations
+- Decision Tree Diagram
+- Feature Importance Chart

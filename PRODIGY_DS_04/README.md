@@ -1,27 +1,27 @@
-# 💬 Task 04: Sentiment Analysis
+# Task-04: Sentiment Analysis
 
 ## 📌 Objective
-Analyze and classify sentiments in social media data.
+Analyze sentiment patterns in social media data to understand public opinion.
 
-## 📂 Dataset
-Twitter dataset (`twitter_training.csv`)
+## 📊 Dataset
+Twitter Training Dataset (twitter_training.csv)
 
-## 🔍 Steps Performed
-- Cleaned text data
-- Removed special characters and links
-- Converted text into numerical features using CountVectorizer
-- Trained Naive Bayes model
-
-## 📊 Output
-- Sentiment classification
-- Sentiment distribution graph
-
-## 🧠 Insights
-- Mixed sentiment observed across different entities
-- Certain topics show strong positive or negative trends
-
-## 🛠️ Tools Used
+## 🔧 Tools Used
 - Python
 - Pandas
-- Scikit-learn
-- NLP techniques
+- Matplotlib
+- Seaborn
+
+## 📈 What I Did
+- Cleaned and preprocessed text data
+- Categorized sentiments (Positive, Negative, Neutral)
+- Analyzed distribution of sentiments
+- Visualized sentiment patterns
+
+## 🔍 Key Insights
+- Positive and neutral sentiments dominate
+- Negative sentiment is comparatively lower
+- Sentiment varies across topics
+
+## 📸 Visualizations
+- Sentiment Distribution Chart
